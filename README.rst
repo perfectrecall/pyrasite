@@ -1,29 +1,8 @@
-.. image:: http://pyrasite.com/logo.png
-
 pyrasite
 ========
-
-.. image:: https://api.travis-ci.org/lmacken/pyrasite.png?branch=develop
-   :target: http://travis-ci.org/lmacken/pyrasite
-.. image:: https://coveralls.io/repos/lmacken/pyrasite/badge.png?branch=develop
-   :target: https://coveralls.io/r/lmacken/pyrasite?branch=develop
-.. image:: https://pypip.in/v/pyrasite/badge.png
-   :target: https://crate.io/packages/pyrasite
-.. image:: https://pypip.in/d/pyrasite/badge.png
-   :target: https://crate.io/packages/pyrasite
-
-.. split here
-
 Tools for injecting arbitrary code into running Python processes.
 
-:homepage: http://pyrasite.com
-:documentation: http://pyrasite.rtfd.org
-:download: http://pypi.python.org/pypi/pyrasite
-:source: http://github.com/lmacken/pyrasite
-:screenshots: http://readthedocs.org/docs/pyrasite/en/latest/GUI.html
-:mailing list: https://fedorahosted.org/mailman/listinfo/pyrasite
-:jenkins: http://ci.csh.rit.edu/view/Pyrasite
-:irc: #pyrasite on Freenode
+**Usage Tip:** If `pyrasite-shell` seems to hang indefinitely, you may not have GDB installed. Try `apt install gdb`.
 
 Requirements
 ~~~~~~~~~~~~
